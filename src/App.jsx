@@ -19,6 +19,7 @@ function App() {
         </Nav>
       </Navbar>
       <br/>
+      <FantasyFootball/>
      {/* <Question/> */}
      {/* <Weather/> */}
     </div>
