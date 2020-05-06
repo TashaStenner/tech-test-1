@@ -4,6 +4,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Weather from "./Containers/Weather";
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from "react-bootstrap/Nav";
+import Question from "./Containers/Question";
+import FantasyFootball from "./Containers/FantasyFootball";
 
 function App() {
   return (
@@ -17,7 +19,8 @@ function App() {
         </Nav>
       </Navbar>
       <br/>
-      <Weather />
+     {/* <Question/> */}
+     {/* <Weather/> */}
     </div>
   );
 }
