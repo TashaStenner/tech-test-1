@@ -17,8 +17,8 @@ const FantasyFootball = () => {
               position={player.position}
               dob={player.dateOfBirth}
               nationality={player.nationality}
-            />,
-          (playerId = [...playerId += player.id])
+            />
+          // (playerId = [...playerId += player.id])
           ))}
         </section>
         <section className={styles.mySelectedTeam}>
@@ -32,7 +32,7 @@ const FantasyFootball = () => {
             <li>You can only select each player once</li>
           </ol>
         </section>
-        {console.log(playerId)}
+      
       </div>
     </>
   );
