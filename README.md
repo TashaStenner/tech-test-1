@@ -12,7 +12,7 @@ First tech test set on post-course work
 * It needs to check how many attackers, defenders, midfielders and goalkeepers there are 
 * make sure by adding the new player the total of each does not go over the maximum amount allowed
 * create a button that removes the player if they would like to 
-* Set up Routes so you can move through the pages with the navigation bar 
+* Check that routes works correctly with the nav bar
 
 
 ## How to use
