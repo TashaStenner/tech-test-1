@@ -36,6 +36,6 @@
   },
   "devDependencies": {
     "mkrc": "^1.2.22",
-    "node-sass": "^4.14.0"
+    "node-sass": "^7.0.0"
   }
 }
